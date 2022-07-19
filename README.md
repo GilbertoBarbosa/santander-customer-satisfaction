@@ -9,3 +9,7 @@ Competição Kaggle
 
 ### O modelo foi elaborado utilizando o Jupyter Notebook 
 
+### O notebook SantanderCustomerSatisfaction_v1 considera as variáveis que possuem correlações entre sí menor que 0.7. O Algoritmo utilizado foi o Random forest.
+
+### O notebook SantanderCustomerSatisfaction_v1 considera as variáveis que possuem correlações entre sí menor que 0.7. O Algoritmo utilizado foi o KNN.
+
